@@ -28,5 +28,5 @@ The candidate results were:
 
 ## Challenge Overview
 
-##Challenge Summary
+## Challenge Summary
   
