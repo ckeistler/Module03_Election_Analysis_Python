@@ -26,9 +26,21 @@ The analysis of the election show that:
 - The winner of the election was:
   - Candidate Diana DeGette, who received 73.8% of he vote and 272,892 number of votes.
 
+![terminaloutput](https://user-images.githubusercontent.com/88443672/132582325-c0db3d9f-ce84-4bba-93f1-5b69d497050e.png)
+
 ## Challenge Overview
 
 ## Challenge Summary
-![terminaloutput](https://user-images.githubusercontent.com/88443672/132582325-c0db3d9f-ce84-4bba-93f1-5b69d497050e.png)
+- There were 369,711 votes cast in the election
+- The counties included in the precint include:
+  - Jefferson
+  - Denver
+  - Arapahoe
+- The county results were:
+   - Jefferson: 38,855 votes cast (10.5%)
+   - Denver: 306,055 votes cast (82.8%)
+   - Arapahoe: 24,801 votes cast (6.7%)
+- The county with the largest vote total was Denver, with 306,055 votes (82.8%)
+
 ![txtfile](https://user-images.githubusercontent.com/88443672/132582338-9a0e79c6-8a59-4eb9-aa29-cc26f0f7a1d1.png)
 
