@@ -46,6 +46,9 @@ The election comission has requested additional data to complete the audit, incl
    - Arapahoe: 24,801 votes cast (6.7%)
 - The county with the largest vote total was Denver, with 306,055 votes (82.8%)
 
+## Election Audit Summary
+The code written for this analysis can be reused or modified for future election audits.  If the election data is provided in a similar structure, the csv reference could easily be changed to reference a new file.  Otherwise, index references could be easily changed, or even excluded, if data isn't provided in the same order, or if county detail isn't provided.
+
 ## Terminal and .TXT Outputs
 ![txtfile](https://user-images.githubusercontent.com/88443672/132582338-9a0e79c6-8a59-4eb9-aa29-cc26f0f7a1d1.png)
 ![terminaloutput](https://user-images.githubusercontent.com/88443672/132582325-c0db3d9f-ce84-4bba-93f1-5b69d497050e.png)
