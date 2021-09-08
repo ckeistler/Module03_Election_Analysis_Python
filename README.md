@@ -29,4 +29,6 @@ The analysis of the election show that:
 ## Challenge Overview
 
 ## Challenge Summary
-  
+![terminaloutput](https://user-images.githubusercontent.com/88443672/132582325-c0db3d9f-ce84-4bba-93f1-5b69d497050e.png)
+![txtfile](https://user-images.githubusercontent.com/88443672/132582338-9a0e79c6-8a59-4eb9-aa29-cc26f0f7a1d1.png)
+
